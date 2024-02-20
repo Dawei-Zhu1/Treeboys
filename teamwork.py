@@ -1,4 +1,7 @@
 def get_numbers():
+def square_numbers(numbers)
+def display_numbers(numbers)
+
 
 def main():
     numbers = get_numbers()
